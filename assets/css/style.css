@@ -393,7 +393,6 @@ navbar a:active {
 }
 .portfolio-container:nth-of-type(2) .portfolio-box:nth-of-type(3) {
   background-color: #c67ce8;
-
 }
 
 .portfolio-container:nth-of-type(2) .portfolio-box:nth-of-type(4) {
@@ -782,27 +781,12 @@ font-size: 2.0rem;
     align-items: center;
   }
   .about p{
-    font-size:2.9rem;
+    font-size:3.0rem;
     color: white;
   }
-  .portfolio-container {
-    display: flex;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    -webkit-overflow-scrolling: touch;
-    gap: 0;
-  }
-
-  .portfolio-container .portfolio-box {
-    flex: 0 0 100%;
-    scroll-snap-align: center;
-    width: 100vw;
-    height: auto;
-    margin: 0;
-  }
-  .portfolio-container::-webkit-scrollbar {
-    display: none;
-  }
+  .portfolio-container:nth-of-type(4) .portfolio-box:nth-of-type(3) {
+  color:#6b1349;
+  }
   .footer {
     flex-direction: column;
     align-items: center;
