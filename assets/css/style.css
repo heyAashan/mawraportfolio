@@ -424,7 +424,7 @@ navbar a:active {
 }
 
 .portfolio-container:nth-of-type(4) .portfolio-box:nth-of-type(3) {
-  background-color: #fef2b0;
+  background-color:#c67ce8;
 }
 
 .portfolio-container:nth-of-type(4) .portfolio-box:nth-of-type(4) {
@@ -782,7 +782,7 @@ font-size: 2.0rem;
     align-items: center;
   }
   .about p{
-    font-size:2.7rem;
+    font-size:2.9rem;
     color: white;
   }
   .portfolio-container {
